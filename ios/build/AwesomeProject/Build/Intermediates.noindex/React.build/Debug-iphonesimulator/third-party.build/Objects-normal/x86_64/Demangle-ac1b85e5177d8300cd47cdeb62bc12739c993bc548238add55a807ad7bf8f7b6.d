@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/jason/Desktop/AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
