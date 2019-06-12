@@ -160,6 +160,7 @@ const RootStack = createStackNavigator(
 3. Update our onPress in ViewOne.js
 
 `this.props.navigation.push('ViewTwo', { data: 'Hello' })`
+
 ---
 
 ### Resources
